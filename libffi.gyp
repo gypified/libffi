@@ -2,7 +2,7 @@
 # http://code.google.com/p/gyp
 # To build try this:
 #   svn co http://gyp.googlecode.com/svn/trunk gyp
-#   ./gyp/gyp -f make --depth=`pwd` libffi.gyp
+#   ./gyp/gyp -f make --depth=. libffi.gyp
 #   make
 #   ./out/Debug/test
 
